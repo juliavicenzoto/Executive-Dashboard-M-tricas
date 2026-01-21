@@ -1,0 +1,2 @@
+# Executive-Dashboard-M-tricas
+VISÃO COMPACTA (ORH, START, END, ETA, XD, PARADAS, SPR, KM, OCUPAÇÃO, COL >15, QTDE ROTAS)
